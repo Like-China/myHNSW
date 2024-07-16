@@ -45,5 +45,3 @@ search_time = time.time()
 print("Searchtime: %f" % (search_time - add_point_time))
 ```
 
-1
-
